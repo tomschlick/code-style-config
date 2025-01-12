@@ -1,8 +1,8 @@
 {
-    "preset": "psr12",
+    "preset": "per",
     "rules": {
-        "@PHP81Migration": true,
-        "@PHP80Migration:risky": true,
+        "@PHP84Migration": true,
+        "@PHP82Migration:risky": true,
         "array_syntax":
         {
             "syntax": "short"
